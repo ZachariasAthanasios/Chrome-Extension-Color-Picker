@@ -1,4 +1,4 @@
-# Chrome Extension Color Picker
+# Chrome Extension Color Picker 
 
 ## Overview
 Chrome Extension Color Picker is a lightweight and user-friendly color picker tool designed as a Chrome browser extension. This extension allows users to easily pick colors from any web page, providing a convenient way to identify and use colors for various purposes.
