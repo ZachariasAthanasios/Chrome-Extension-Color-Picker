@@ -12,15 +12,21 @@ Chrome Extension Color Picker is a lightweight and user-friendly color picker to
 ## Getting Started
 <ol>
   <li>Clone the repository to your local machine using git clone.</li>
-  <li>Explore the categorized folders to find the specific snippet you need.</li>
-  <li>Copy and integrate the snippet into your WordPress project.</li>
+  <li>Load the Extension in Chrome:
+      <ul>
+        <li>Open Google Chrome browser.</li>
+        <li>Navigate to chrome://extensions/.</li>
+        <li>Enable Developer Mode by toggling the switch at the top right corner.</li>
+        <li>Click on "Load unpacked" and select the directory where you cloned the repository.</li>
+      </ul>
+  </li>
+  <li>Activate the Color Picker.</li>
 </ol>
 
 
 ## Contribution Guidelines
 <ol>
   <li>Fork the repository.</li>
-  <li>Add your snippet with a clear description in the appropriate category.</li>
-  <li>Ensure your code follows WordPress coding standards.</li>
+  <li>Add your code with a clear description.</li>
   <li>Submit a pull request, and i will review it promptly.</li>
 </ol>
